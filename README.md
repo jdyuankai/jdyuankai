@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co/5B1DM7D/banner.png)
 
-<h1 align="center">Hi 👋, I'm Kari </h1>
+<h1 align="center">Hi 👋, I'm Kari [中文](./README_zh.md) </h1> 
 <h3 align="center">A Blockchain developer teaching and helping people enter and transition from Web 2.0 to Web 3.0 development.</h3>
 
 - 🌱 I’m tutoring on **Blockchain Development** 
